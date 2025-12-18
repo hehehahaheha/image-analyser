@@ -1,1 +1,5 @@
-{"trigger": false}
+{
+  "trigger": true,
+  "interval": 60,
+  "number": 3
+}
