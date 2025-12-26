@@ -1,5 +1,5 @@
 {
-  "trigger": false,
+  "trigger": true,
   "interval": 5,
   "number": 5
 }
