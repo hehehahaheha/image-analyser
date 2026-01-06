@@ -1,6 +1,5 @@
 {
-  "trigger": true,
+  "trigger": false,
   "interval": 60,
   "number": 5
-
 }
